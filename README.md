@@ -8,6 +8,7 @@ What took time:
 * Refactoring, comments, hiding away public fields.
 
 What went fine:
+* A new framework written from scratch.
 * I used a mix of different techniques to demonstrate different approaches.
 * Finding a trajectory solution that made sense.
 
