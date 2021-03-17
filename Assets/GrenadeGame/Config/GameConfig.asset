@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d0f16cba9a17864ca611eea3bfc7124, type: 3}
+  m_Name: GameConfig
+  m_EditorClassIdentifier: 
+  GrenadeTypes:
+  - Index: 0
+    Color: {r: 0.03529412, g: 0.003921569, b: 0.37254903, a: 1}
+  - Index: 1
+    Color: {r: 0.6862745, g: 0, b: 0.4117647, a: 1}
+  - Index: 2
+    Color: {r: 0.33333334, g: 0.7019608, b: 0.69411767, a: 1}
+  - Index: 3
+    Color: {r: 0.9647059, g: 0.7529412, b: 0.39607844, a: 1}
+  MaxGrenades: 100
+  GrenadeRespawnTime: 5
+  GrenadePickupDistance: 0.5
+  GrenadeExplosionDistance: 0.25
+  GrenadeLateral: 0.25
+  GrenadeArc: 1
+  GrenadeSpeed: 30
+  GrenadeFuseTime: 0.2
+  GrenadeMaxDamage: 60
+  GrenadeBlastRadius: 5
+  MaxEnemies: 50
+  EnemyMaxHealth: 100
+  EnemyRespawnTime: 10
+  MaxTrajectoryPoints: 100

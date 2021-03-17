@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: e96cc611ead17c042943bf9e931bfa0c
+  m_SerializeEntries:
+  - m_GUID: f7a86bf241e2fc440977155160fcb40b
+    m_Address: CameraDefault
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 442265377882000803, guid: f7a86bf241e2fc440977155160fcb40b,
+      type: 3}
+    m_TargetAsset: {fileID: 442265377882000803, guid: f7a86bf241e2fc440977155160fcb40b,
+      type: 3}
+  - m_GUID: 60d6c63cd22e08a4a9f4451cab66c63b
+    m_Address: CharacterDefault
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 7067573871724264618, guid: 60d6c63cd22e08a4a9f4451cab66c63b,
+      type: 3}
+    m_TargetAsset: {fileID: 7067573871724264618, guid: 60d6c63cd22e08a4a9f4451cab66c63b,
+      type: 3}
+  - m_GUID: 2484ae9a13d573345a145ed5ee6e16dc
+    m_Address: GameDefault
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 102900000, guid: 2484ae9a13d573345a145ed5ee6e16dc, type: 3}
+    m_TargetAsset: {fileID: 102900000, guid: 2484ae9a13d573345a145ed5ee6e16dc, type: 3}
+  - m_GUID: e7e0202f6646f6549ba639edfc8dd605
+    m_Address: GrenadeDefault
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2140283504495537032, guid: e7e0202f6646f6549ba639edfc8dd605,
+      type: 3}
+    m_TargetAsset: {fileID: 2140283504495537032, guid: e7e0202f6646f6549ba639edfc8dd605,
+      type: 3}
+  - m_GUID: f69c5af239d1a374b918fc1e31ec711e
+    m_Address: ConfigDefault
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 11400000, guid: f69c5af239d1a374b918fc1e31ec711e, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: f69c5af239d1a374b918fc1e31ec711e, type: 2}
+  - m_GUID: 9339d3836484edf489c7f86d6db629c6
+    m_Address: GameUI
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 8435166814317520521, guid: 9339d3836484edf489c7f86d6db629c6,
+      type: 3}
+    m_TargetAsset: {fileID: 8435166814317520521, guid: 9339d3836484edf489c7f86d6db629c6,
+      type: 3}
+  - m_GUID: ad07e7f6b2f011f4d83a9bf20fcb3fe7
+    m_Address: ExplosionDefault
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 100010, guid: ad07e7f6b2f011f4d83a9bf20fcb3fe7, type: 3}
+    m_TargetAsset: {fileID: 100010, guid: ad07e7f6b2f011f4d83a9bf20fcb3fe7, type: 3}
+  - m_GUID: 7d946fd538c31f642881f66c66b0c6a5
+    m_Address: EnemyDefault
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 649075834056968714, guid: 7d946fd538c31f642881f66c66b0c6a5,
+      type: 3}
+    m_TargetAsset: {fileID: 649075834056968714, guid: 7d946fd538c31f642881f66c66b0c6a5,
+      type: 3}
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 927e35d947b6fa9479fc400041e8334e, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: e82f5086f2247e7448909152cdc7bfff, type: 2}
+    - {fileID: 11400000, guid: 1ff445ed12943be459ebc4ed5d3979a2, type: 2}
